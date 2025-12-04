@@ -73,7 +73,7 @@ public class GradesManagement12 {
                 highestScoringStudentIndex = i;
             }
             
-            System.out.printf("Total Grade for %s: %d\n", STUDENT_NAMES[i], currentTotal);
+            System.out.printf("Total Grade for %s:  %d\n", STUDENT_NAMES[i], currentTotal);
         }
 
         if (highestScoringStudentIndex != -1) {
