@@ -13,8 +13,8 @@ public class Cube12 {
     public static void main(String[] args) {
         double side = 5.0; 
         double areaResult = calculateArea(side);
-        System.out.println("The side length of the cube is: " + side);
-        System.out.println("The surface area is: " + areaResult);
+        System.out.println("The side length of the cube is:  " + side);
+        System.out.println("The surface area is:  " + areaResult);
         double volumeResult = calculateVolume(side);
         System.out.println("The volume is: " + volumeResult);
     }
