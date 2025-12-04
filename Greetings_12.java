@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Greetings_12{
     public static String getGreetingRecipient(){
         Scanner input = new Scanner(System.in);
-        System.out.println("Input the name of people you want to greet: ");
+        System.out.println("Input the name of people you want to greet:  ");
         String recipientName = input.nextLine();
         input.close();
         return recipientName;
