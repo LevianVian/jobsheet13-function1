@@ -4,7 +4,7 @@ public class ExpressingGratitude_12 {
 
     public static String getGreetingRecipient() {
         try (Scanner input = new Scanner(System.in)) {
-            System.out.print("Input the name of people you want to greet: ");
+            System.out.print("Input the name of people you want to greet:  ");
             String recipientName = input.nextLine();
             return recipientName;
         }
