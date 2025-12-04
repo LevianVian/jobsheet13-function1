@@ -11,7 +11,7 @@ public class Gratitude_12 {
 
     public static void main(String[] args) {
         sayThankyou();
-        String expression = "Thankyou...wish you all the best!!";
+        String expression = "Thankyou... wish you all the best!!";
         sayAdditionalGreetings(expression);
     }
 }
