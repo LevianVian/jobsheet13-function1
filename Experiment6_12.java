@@ -23,7 +23,7 @@ public class Experiment6_12 {
         t = input.nextInt();
 
         L = p*l;
-        System.err.println("Area of the rectangle = " + L);
+        System.out.println("Area of the rectangle = " + L);
         vol = p*l*t;
         System.out.println("Volume of the rectangular = " + vol);
 
